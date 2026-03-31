@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/atualizarEstados.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/consultarComAgregacao.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/consultarEstados.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/criarTabelaEstado.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/criarTabelaCidades.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/criarTabelaEstados.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/deletarTabela.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/excluirEstados.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inserirCidades.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/inserirEstados1.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/inserirEstados2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inserirNovosEstados.sql" dialect="MySQL" />
   </component>
 </project>
