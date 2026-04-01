@@ -3,14 +3,21 @@
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/atualizarEstados.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/consultarComAgregacao.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
+    <file url="file://$PROJECT_DIR$/consultarComJoin.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
+    <file url="file://$PROJECT_DIR$/consultarComJoins.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
+    <file url="file://$PROJECT_DIR$/consultarEmpresas.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/consultarEstados.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/criarTabelaCidades.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
+    <file url="file://$PROJECT_DIR$/criarTabelaEmpresas.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/criarTabelaEstados.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
+    <file url="file://$PROJECT_DIR$/criarTabelaPrefeitos.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/deletarTabela.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/excluirEstados.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/inserirCidades.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
+    <file url="file://$PROJECT_DIR$/inserirEmpresas.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/inserirEstados1.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/inserirEstados2.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
     <file url="file://$PROJECT_DIR$/inserirNovosEstados.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
+    <file url="file://$PROJECT_DIR$/inserirPrefeitos.sql" value="e97da642-7b16-4e58-8ce1-693313d75625" />
   </component>
 </project>

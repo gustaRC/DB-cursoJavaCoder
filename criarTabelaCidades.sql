@@ -9,3 +9,4 @@ create table if not exists cidades (
 #   chave estrangeira
 );
 # Tabela somente será criada caso ainda não exista no banco de dados
+# Relação 1 para N (um para muito/one-to-many), ou seja, um estado pode ter várias cidades, mas uma cidade pertence a apenas um estado
